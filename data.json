@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://thumbs.dreamstime.com/b/chef-woman-gesturing-ok-confident-sign-vector-illustration-116211561.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "numRecipes": 50,
+      "likes": 1000,
+      "Recipes_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=051trCkQfpVapBF2QVgpL0Hm-OftxJt1zzR-5Jgwj8A=",
+      "chefName": "Jane Doe",
+      "yearsOfExperience": 8,
+      "numRecipes": 30,
+      "likes": 750,
+      "Recipes_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+      "chefName": "Robert Johnson",
+      "yearsOfExperience": 12,
+      "numRecipes": 60,
+      "likes": 1200,
+      "Recipes_image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "chefName": "Maria Garcia",
+      "yearsOfExperience": 6,
+      "numRecipes": 20,
+      "likes": 500,
+      "Recipes_image": ""
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://ochosabores.com/wp-content/uploads/2023/02/post_thumbnail-0905dda494d3de716505016ed30ddd031.jpeg",
+      "chefName": "David Lee",
+      "yearsOfExperience": 9,
+      "numRecipes": 40,
+      "likes": 900,
+      "Recipes_image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80"
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://fegasacruz.org/wp-content/uploads/2020/10/20-DE-OCTUBRE-DIA-INTERNACIONAL-DEL-CHEF.jpg",
+      "chefName": "Emily Kim",
+      "yearsOfExperience": 7,
+      "numRecipes": 25,
+      "likes": 600,
+      "Recipes_image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+  ]
