@@ -11,10 +11,24 @@ app.get('/', (req, res) => {
 });
 
 const recipeData =require('./data.json');
+// const data =require('./data.json');
 
 app.get("/data", (req, res) => {
     res.send(recipeData);
   });
+
+  app.get("/data/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log(id);
+  
+    if (id === 0) {
+      res.send(news);
+    } else {
+      const allData = recipeData.filter((n) => parseInt(n.id) === id);
+      res.send(allData);
+    }
+});
+  
 
 
 
