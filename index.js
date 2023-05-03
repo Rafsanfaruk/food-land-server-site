@@ -22,7 +22,7 @@ app.get("/data", (req, res) => {
     console.log(id);
   
     if (id === 0) {
-      res.send(news);
+      res.send(recipeData);
     } else {
       const allData = recipeData.filter((n) => parseInt(n.id) === id);
       res.send(allData);

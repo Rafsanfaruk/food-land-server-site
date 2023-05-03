@@ -6,6 +6,19 @@
       "yearsOfExperience": 10,
       "numRecipes": 50,
       "likes": 1000,
+      "description": "This classic spaghetti with meat sauce recipe is easy and delicious.",
+      "ingredients": [
+        " pound ground beef",
+        " onion, chopped",
+        " cloves garlic, minced",
+        " (28 ounce) can crushed tomatoes",
+        " (6 ounce) can tomato paste",
+        " teaspoon dried basil",
+        " teaspoon dried oregano",
+        " 1/2 teaspoon salt",
+        " 1/4 teaspoon black pepper",
+        " 1 pound spaghetti"
+      ],
       "Recipes_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
@@ -15,6 +28,15 @@
       "yearsOfExperience": 8,
       "numRecipes": 30,
       "likes": 750,
+      "description": "This simple and delicious roast chicken recipe is perfect for any occasion.",
+      "ingredients": [
+        " (4 pound) whole chicken",
+        " teaspoons kosher salt",
+        " 1/2 teaspoon black pepper",
+        " lemon, quartered",
+        " head garlic, cut in half crosswise",
+        " 1/2 bunch fresh thyme"
+      ],
       "Recipes_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },
     {
@@ -24,6 +46,14 @@
       "yearsOfExperience": 12,
       "numRecipes": 60,
       "likes": 1200,
+      "description": "This classic chocolate chip cookie recipe is chewy and delicious.",
+      "ingredients": [
+        " 1/4 cups all-purpose flour",
+        " teaspoon baking soda",
+        " teaspoon salt",
+        " cup unsalted butter, at room temperature",
+        " 3/4 cup"
+      ],
       "Recipes_image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
@@ -33,6 +63,15 @@
       "yearsOfExperience": 6,
       "numRecipes": 20,
       "likes": 500,
+      "description": "This classic roast chicken recipe is a foolproof method for making delicious, juicy chicken every time.",
+      "ingredients": [
+        " whole chicken (about 4 lbs)",
+        " Kosher salt",
+        " Freshly ground black pepper",
+        " lemons, quartered",
+        " head of garlic, cut in half crosswise",
+        " 1/2 bunch of fresh thyme"
+      ],
       "Recipes_image": "https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg?w=2000"
     },
     {
@@ -42,6 +81,18 @@
       "yearsOfExperience": 9,
       "numRecipes": 40,
       "likes": 900,
+      "description": "This classic Italian dish is rich, creamy, and full of flavor. It's perfect for a cozy night in or a special occasion.",
+      "ingredients": [
+        "14 oz spaghetti",
+        "4 egg yolks",
+        " cup grated parmesan cheese",
+        "4 oz pancetta, diced",
+        "4 cloves garlic, minced",
+        "1/4 cup dry white wine",
+        "1/4 cup heavy cream",
+        "Salt and freshly ground black pepper",
+        "Handful of fresh parsley, chopped"
+      ],
       "Recipes_image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80"
     },
     {
@@ -51,6 +102,18 @@
       "yearsOfExperience": 7,
       "numRecipes": 25,
       "likes": 600,
+      "description": "A healthy and flavorful vegetable curry made with a blend of spices and fresh vegetables.",
+      "ingredients": [
+        "14 oz spaghetti",
+        "4 egg yolks",
+        "1 cup grated parmesan cheese",
+        "4 oz pancetta, diced",
+        "4 cloves garlic, minced",
+        "1/4 cup dry white wine",
+        "1/4 cup heavy cream",
+        "Salt and freshly ground black pepper",
+        "Handful of fresh parsley, chopped"
+      ],
       "Recipes_image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     }
   ]
